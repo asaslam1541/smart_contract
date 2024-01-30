@@ -1,6 +1,6 @@
-# smart_contract
+# Smart_contract
 ## Steps:
-- The contract was developed & Deployed
+- The contract was developed & deployed.
 
 - The accounts were set using the dummies provided through setAccount function.
 
